@@ -1,4 +1,4 @@
-# Sales-and-Customer-Analytics-Dashboard
+## Sales-and-Customer-Analytics-Dashboard
 This Power BI project provides a comprehensive, interactive view of sales data. It transforms raw sales data into actionable business insights, allowing stakeholders to track top-performing products, analyze total sales and profit, quantity ordered by product line and evaluate customer number across various regions.🚀
 
 # Key Features📈 
@@ -9,7 +9,7 @@ This Power BI project provides a comprehensive, interactive view of sales data. 
 4. Customer Count by Country: A geographic or bar visual demonstrating customer distribution and market reach across countries.
 5. Quantity Ordered by Product-line: A tree map is used to represent the quantity ordered by using product line.
    
-# 🎛️ Interactive KPIs, Cards & Slicers
+# 🎛️ Interactive KPI, Cards & Slicers
 Dynamic slicers and KPIs allow users to filter and view the following metrics instantly.
 1. Total Sales
 2. Total Quantity Orderes
@@ -25,3 +25,8 @@ Dynamic slicers and KPIs allow users to filter and view the following metrics in
 4. Power BI Slicers
 5. Charts and Graphs
 6. Power BI Visualization
+
+# Repository Structure
+-> Data: 
+-> Sales and Customers Analytics dashboard
+-> Dashboard Screenshot: 
