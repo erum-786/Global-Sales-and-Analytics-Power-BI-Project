@@ -1,4 +1,5 @@
-## Sales-and-Customer-Analytics-Dashboard
+# Sales-and-Customer-Analytics-Dashboard
+# Project Overview
 This Power BI project provides a comprehensive, interactive view of sales data. It transforms raw sales data into actionable business insights, allowing stakeholders to track top-performing products, analyze total sales and profit, quantity ordered by product line and evaluate customer number across various regions.🚀
 
 # Key Features📈 
@@ -27,6 +28,7 @@ Dynamic slicers and KPIs allow users to filter and view the following metrics in
 6. Power BI Visualization
 
 # Repository Structure
--> Data: <br/>
--> Sales and Customers Analytics dashboard:
+-> Data: customers.csv, employees.csv, offices.csv, order details.csv, orders.csv, payments.csv, productlines.csv <br/>
+-> Sales and Customers Analytics dashboard: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Sales%20and%20Customer%20Analytics%20Dashboard.pbix <br/>
+-> dashboard PDF: " " <br/>
 -> Dashboard Screenshot:  "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Dashboard%20Screenshot.png"<br/>
