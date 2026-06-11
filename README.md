@@ -1,23 +1,17 @@
-# Sales-and-Customer-Analytics-Dashboard
-# Project Overview
-This Power BI project provides a comprehensive, interactive view of sales data. It transforms raw sales data into actionable business insights, allowing stakeholders to track top-performing products, analyze total sales and profit, quantity ordered by product line and evaluate customer number across various regions.🚀
+# 📊 Global Sales and Analytics Dashboard 
+Welcome to the Global Sales & Analytics Power BI project! This repository contains a comprehensive, interactive business intelligence solution designed to track, analyze, and visualize global sales performance, customer behavior, and product line profitability. 
 
-# Key Features📈  
-# Visualizations
-1. Top 10 Selling Products: A stacked bar chart highlighting the highest-selling products.
-2. Sales by Product Line: A visual breakdown of the sum of sales across different product lines.
-3. Quantity Ordered by Year: An interactive column chart tracking order volume trends over time.
-4. Customer Count by Country: A geographic or bar visual demonstrating customer distribution and market reach across countries.
-5. Quantity Ordered by Product-line: A tree map is used to represent the quantity ordered by using product line.
-   
-# 🎛️ Interactive KPI, Cards & Slicers
-Dynamic slicers and KPIs allow users to filter and view the following metrics instantly.
-1. Total Sales
-2. Total Quantity Orderes
-3. Total Profit
-4. Most Ordered Product
-5. Sales based on year (KPI Visual)
-6. Slicer for city, country and product line.
+# 📌 Project Overview 
+This Power BI project transforms raw global sales data into actionable business insights. It features a multi-page dashboard system equipped with rich visualizations, dynamic filtering, and intuitive navigation to empower data-driven decision-making. 
+
+# 🛠️ Dashboards & Features 
+The report is structured into the following key sections: 
+
+• 📈 Executive Sales Summary Dashboard: Provides a high-level overview of total sales, profit,most ordered product and total quantity ordered. It features top 10 selling products, sales trends by product line, top-performing countries using map, quantity ordered by productline and interactive KPIs. 
+• 📊 Sales Trend Analysis: Analyzes Sales Trend based on product name, top 5 selling products, sum of sales by city, total sales by months. Use Cards to represent the data in better way and show total total sales, profit % based on year and countries represented using slicers.
+• 👥 Customer Analytics: Analyzes customer demographics, purchasing behavior, and segmentation. It helps identify high-value customers and regional buying patterns. 
+• 📦 Product Line Analysis: Breaks down sales and profitability by product categories. Highlights best and worst-performing products, allowing for better inventory and marketing strategies. 
+• 💡 Interactive Tooltip: Custom-built tooltips are embedded across the dashboards to provide instant, detailed context (such as sub-category breakdowns) when hovering over data points. 
 
 # 🛠️ Tools & Technologies Used
 1. Visualization: Power BI Desktop
@@ -27,6 +21,12 @@ Dynamic slicers and KPIs allow users to filter and view the following metrics in
 5. Charts and Graphs
 6. Power BI Visualization
 
+# 🏗️ Technical Highlights 
+• Data Modeling: Star schema with clear relationships between fact tables (Sales) and dimension tables (Customers, Products,etc). 
+• DAX Measures: Utilizes advanced DAX formulas for complex calculations, including Year-to-Date (YTD) calculations, ,creating new columns and measures, and dynamic KPI targets. 
+• Data Visualization: Leverages a variety of visuals including matrix tables, clustered bar charts, donut charts, and line graphs for trend analysis. 
+• UI/UX Design: Built with a focus on user accessibility, featuring clean navigation buttons,cards, and KPI cards. 
+
 # Repository Structure
 -> Data: customers.csv, employees.csv, offices.csv, order details.csv, orders.csv, payments.csv, productlines.csv <br/>
 -> Sales and Customers Analytics dashboard: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Sales%20and%20Customer%20Analytics%20Dashboard.pbix <br/>
@@ -35,3 +35,11 @@ Dynamic slicers and KPIs allow users to filter and view the following metrics in
 
 # Connect with me
 -> Linkedin: "https://www.linkedin.com/in/erum-mansoori"
+
+
+🚀 How to View & Interact 
+
+1. Download the  file: Clone or download this repository to your local machine. 
+2. Open in Power BI Desktop: Ensure you have Power BI Desktop installed on your computer. 
+3. Explore: Open the  file in the application to interact with the filters, slicers, and drill-through features. 
+
