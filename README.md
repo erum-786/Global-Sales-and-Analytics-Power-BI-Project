@@ -29,7 +29,10 @@ The report is structured into the following key sections:  <br/>
 
 # Repository Structure
 -> Data: customers.csv, employees.csv, offices.csv, order details.csv, orders.csv, payments.csv, productlines.csv <br/>
--> Sales and Customers Analytics dashboard: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Sales%20and%20Customer%20Analytics%20Dashboard.pbix <br/>
+-> Executive Sales Summary dashboard Screeshot: "exec -> https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Executive%20Sales%20Summary%20Dashboard%20Screenshot.png" <br/>
+-> Sales Trend Analysis Dashboard: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Sales%20Trend%20Analysis%20Dashboard%20Screenshot.png" <br/>
+-> Customer Analytics Dashboard Screenshot: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Customer%20Analystics%20Dashboard%20Screenshot.png" <br/>
+-> Analysis based on productline:"https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Analysis%20based%20on%20product%20line.png" <br/>
 -> dashboard PDF: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Sales%20and%20Customer%20Analytics%20Dashboard%20pdf.pdf" <br/>
 -> Dashboard Screenshot:  "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Dashboard%20Screenshot.png"<br/>
 
